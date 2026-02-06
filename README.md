@@ -1,4 +1,3 @@
-# Dispersion-Compensation
 # Dispersion Compensation
 
 ## Objective
@@ -50,6 +49,7 @@ Therefore, given target values for chromatic dispersion and attenuation loss plu
 3. Based on the results of (1) and (2), determine the lengths of the transmission fiber and the DCF  
 
 ---
+<img width="1280" height="561" alt="image" src="https://github.com/user-attachments/assets/4d4f8ddc-55d4-4d8c-8c6a-ffb8c56f9f48" />
 
 ## Layout
 The main physical components of this layout are:
@@ -86,9 +86,11 @@ The main physical components of this layout are:
 
 ## Further Simulation and Analysis
 - Set the DCF length to 0 and run the simulation again.  
-- Record similar measurements for comparison.  
+- Record similar measurements for comparison.
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1a83885f-2033-4712-bf91-f8a227ceee23" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6912898-6b20-4f59-8ff9-229468d4cc17" />
 
 ## Conclusions
 Discuss the effectiveness of dispersion-compensating fiber and the ability of the calculations to engineer a viable system.
